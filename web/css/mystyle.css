@@ -1,0 +1,10 @@
+#map{
+    position:relative;
+    width:auto;
+    height: calc(100% - 60px);
+    z-index: -1;
+}
+
+.places-buttons .btn{
+    margin-bottom: 30px
+}
